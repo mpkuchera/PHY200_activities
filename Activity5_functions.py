@@ -4,6 +4,8 @@ name: Activity5_functions.py
 
 This program calculates interatomic potential repulsion
 
+ToDo: Create one or more user-defined functions that increase the 
+usability and readability of this code. 
 
 
 author: M.P. Kuchera
