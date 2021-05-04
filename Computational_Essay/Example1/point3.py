@@ -3,7 +3,7 @@
 """
 Code point3() function!!
 
-author: L.L. Arkell
+author: Unknown
 date:  May 2020
 
 """
