@@ -3,7 +3,7 @@
 """
 Code for shooting your own 3-pointer!
 
-author: L.L. Arkell
+author: Unknown
 date: May 2020
 
 """
